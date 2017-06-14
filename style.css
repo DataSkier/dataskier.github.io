@@ -1,8 +1,14 @@
-
 body { 
 	background-color: black;
 	color: white;
 
+<<<<<<< HEAD
+body { 
+	background-color: black;
+	color: white;
+
+=======
+>>>>>>> efbc9dba88631a87d8176cfd49e87345651ee20d
 }
 
 h2 { 
@@ -42,4 +48,8 @@ a:hover {
 .education{
 	clear: both;
 	float: left;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> efbc9dba88631a87d8176cfd49e87345651ee20d
