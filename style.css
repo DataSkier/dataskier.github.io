@@ -1,1 +1,45 @@
 
+body { 
+	background-color: black;
+	color: white;
+
+}
+
+h2 { 
+	size: 44px;
+
+}
+
+a:link { 
+	color: #53CA4F;
+
+}
+
+a:visited { 
+	color: blue;
+
+}
+
+a:hover { 
+	color: orange;
+	filter: blur(2px);
+
+}
+
+.face {
+	float: left;
+	margin: 40px;
+	clear: both;
+}
+.contact{
+	float: left;
+	margin: 100px;
+}
+.employment{
+	clear: both;
+	float: left;
+}
+.education{
+	clear: both;
+	float: left;
+}
